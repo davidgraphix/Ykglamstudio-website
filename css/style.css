@@ -298,6 +298,7 @@ ol {
   left: 0;
   top: 0;
   width: 100%;
+  /*background-color: #000;*/
   background: transparent;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   z-index: 9;
@@ -1194,7 +1195,7 @@ ol {
 }
 
 .logo__carousel.owl-carousel .owl-item img {
-  width: auto;
+  width: 250px;
   display: inline-block;
 }
 
