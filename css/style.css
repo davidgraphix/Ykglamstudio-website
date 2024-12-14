@@ -107,6 +107,10 @@ ol {
 /*---------------------
   Helper CSS
 -----------------------*/
+html {
+  scroll-behavior: smooth;
+}
+
 .section-title {
   margin-bottom: 50px;
 }
@@ -309,6 +313,7 @@ ol {
   padding: 30px 0;
 }
 .header__logo a {
+  width: 70px;
   display: inline-block;
 }
 
@@ -444,7 +449,7 @@ ol {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 45px;
+  bottom: 95px;
   width: 100%;
   max-width: 1140px;
   margin: 0 auto;
@@ -871,6 +876,8 @@ ol {
   line-height: 40px;
 }
 .footer__top__logo a {
+  height: 60px;
+  width: 60px;
   display: inline-block;
 }
 
