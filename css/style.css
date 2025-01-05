@@ -177,7 +177,7 @@ html {
   font-family: "Play", sans-serif;
   font-weight: 700;
   padding: 14px 32px 12px;
-  color: #ffffff;
+  color: #baa700;
   text-transform: uppercase;
   letter-spacing: 2px;
   position: relative;
@@ -197,8 +197,8 @@ html {
   top: 0;
   height: 30px;
   width: 30px;
-  border-left: 2px solid #00bfe7;
-  border-top: 2px solid #00bfe7;
+  border-left: 2px solid #fd0076;
+  border-top: 2px solid #fd0076;
   content: "";
   z-index: -1;
   -webkit-transition: all, 0.7s;
@@ -211,8 +211,8 @@ html {
   bottom: 0;
   height: 30px;
   width: 30px;
-  border-right: 2px solid #00bfe7;
-  border-bottom: 2px solid #00bfe7;
+  border-right: 2px solid #fd0076;
+  border-bottom: 2px solid #fd0076;
   content: "";
   z-index: -1;
   -webkit-transition: all, 0.7s;
@@ -381,7 +381,7 @@ html {
 .header__nav__menu ul li a {
   font-size: 15px;
   font-family: "Play", sans-serif;
-  color: #ffffff;
+  color: #fd0076;
   display: block;
   text-transform: uppercase;
   position: relative;
@@ -393,7 +393,7 @@ html {
   bottom: 0;
   width: 100%;
   height: 2px;
-  background: #00bfe7;
+  background: #baa700;
   content: "";
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
@@ -418,7 +418,7 @@ html {
   content: "";
 }
 .header__nav__social a {
-  color: #ffffff;
+  color: #fd0076;
   font-size: 15px;
   margin-right: 18px;
 }
